@@ -1,0 +1,107 @@
+.body{
+    font-family: sans-serif ;
+}
+
+
+.btn-light:hover{
+    background-color: #FFC600;
+
+}
+.banner1{
+    background-image: url(camera\ image.webp);
+    height: 100vh;
+     padding-top: 100px;
+     margin-top: 100px;
+     margin-left: 5px;
+     
+        }
+    
+.navbar{
+    position: fixed;
+    background-color: #453D1F;
+    opacity: 0.7;
+    height: 100px;
+    top: 0;
+    width: 100%;
+    }
+    .container1{
+        background-color: #FFC600;
+    }
+.container2{
+    display: flex;
+}
+
+.btn-outline-secondary:hover{
+    background-color: #FFC600;
+
+}
+.heading1{
+    font-size: 30px;
+    font-weight: 700;
+    padding-left: 50px;
+}
+.text1{
+    padding-left: 50px;
+}
+.heading2{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.h2:hover{
+    color: #FFC600;
+    
+}
+
+.heading2{
+    font-weight: 600;
+}
+.text2{
+    font-size: 20px;
+    color: #8D95A1;
+}
+.banner2{
+    background-image: url(pics/image5.webp);
+
+    background-attachment: scroll, fixed;
+    height: 100vh;
+    padding-top: 100px;
+    margin-top: 100px;
+    margin-left: 5px;
+}
+.banner3{
+    background-image: url(pics/globe.png) !important;
+    height: 450px;
+}
+.section2{
+    background-color: #FFC600;
+}
+.progress{
+    height:60px;
+}
+
+
+.banner-camera{
+    background-image: url(pics/whitecamera.webp) ;
+    height: 100vh;
+     padding-top: 100px;
+     margin-top: 100px;
+     margin-left: 5px;
+    
+
+}
+.texttt{
+    font-weight: 600;
+}
+.textt{
+    font-size: 60px;
+    font-weight: 700;
+    color: #FFC600;
+}
+.headt{
+    font-size: 40px;
+    font-weight: 600;
+}
+.texta{
+    color: #8D95A1;
+    font-size: 20px;}
