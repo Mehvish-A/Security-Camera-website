@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
+<link rel="stylesheet" href="style.css">
+    <title>Hello, world!</title>
+  </head>
+<body>
+
+
+<!--NavBAr--------------->
+
+<nav class="navbar navbar-expand-lg navbar-light ">
+    <div class="container ">
+        <a class="navbar-brand text-white" href="#"><img src="logo1.svg" alt=""></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span> 
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    
+
+        <ul class="navbar-nav  ms-auto mb-3 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active text-white px-lg-3" aria-current="page" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link  text-white px-lg-3" href="about.html">About</a>
+         </li>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-white px-lg-3" href="#">Services</a>
+       </li>
+    </li>
+    
+</li>
+<li class="nav-item">
+  <a class="nav-link text-white px-lg-3" href="contact.html">Contact</a>
+</li>
+<button type="button" class="btn btn-light btn-lg">Contact Us</button>
+
+        
+       </ul>
+    
+       
+</ul>
+      </div>
+    </div>
+  </nav>
+
+
+
+  </div>
+
+
+<!---navbar end-->
+
+<!---banner-->
+
+  <div class="banner-camera">
+    <div class="row">
+    <div class="col md-6">
+      <h3 class="ms-5 mt-5 texttt text-dark" >Video Security Camera</h3>
+    <h1 class="ms-5 mt-5 textt ">Get In Touch: Contact<br>Our Security Experts Today
+
+    </h1>
+    <P class="ms-5 mt-3  text-white"  >Trust our experts to install security cameras in your home, ensuring maximum<br> coverage and protection.</P>
+      <button type="button" class="btn btn-warning btn-lg ms-5">About Us</button>
+      <button type="button" class="btn btn-light btn-lg">Contact Us</button>
+      
+    </div>
+    </div>
+    </div>
+    <!---banner end-->
+
+
+    <div class="container">
+        <div class=" mt-5 row">
+          <div class="col">
+           <h1 class="mt-5 headt">Contact our support team to<br> take care your business</h1>
+           <p class="texta">At Security, we prioritize the success and satisfaction of our <br>clients.
+             Our dedicated support team is here to provide exceptional care for your business needs.</p>
+          </div>
+          <div class="col">
+            <div class="container">
+                <form style="width: 26rem;">
+                    <!-- Name input -->
+                     <di>
+                        <h3>Send us a message</h3>
+                     </di>
+                    <div data-mdb-input-init class="form-outline mb-4">
+                      <input type="text" id="form4Example1" class="form-control" />
+                      <label class="form-label" for="form4Example1">Name</label>
+                    </div>
+                  
+                    <!-- Email input -->
+                    <div data-mdb-input-init class="form-outline mb-4">
+                      <input type="email" id="form4Example2" class="form-control" />
+                      <label class="form-label" for="form4Example2">Email address</label>
+                    </div>
+                  
+                    <!-- Message input -->
+                    <div data-mdb-input-init class="form-outline mb-4">
+                      <textarea class="form-control" id="form4Example3" rows="4"></textarea>
+                      <label class="form-label" for="form4Example3">Message</label>
+                    </div>
+                   <!-- Submit button -->
+  <button data-mdb-ripple-init type="button" class="btn btn-warning btn-block mb-4">Submit</button>
+</form>
+
+</div>
+        </div>
+        <!---------Section 1-->
+<div class="section1">
+    <div class="container1">
+      <div class="ms-5 d-flex flex-row bd-highlight mb-3">
+        <div class="p-4 bd-highlight" ><img src="pics/logo2.png" alt=""></div>
+        <div class="p-4 bd-highlight"><img src="pics/logo3.png" alt=""></div>
+        <div class="p-4 bd-highlight"><img src="pics/logo4.png" alt=""></div>
+        <div class="p-4 bd-highlight"><img src="pics/logo5.png" alt=""></div>
+        <div class="p-4 bd-highlight"><img src="pics/logo6.png" alt=""></div>
+        <div class="p-4 bd-highlight"><img src="pics/logo7.png" alt=""></div>
+      </div>
+    </div>
+    <!---service section-->
+        
+<!---footer-->
+        <footer class="mx-5 p-5 my-4">
+            <div class="main-footer gap-4 d-flex">
+                <div class="signup col-6">
+                    <h2>Sign Up For Newsletter</h2>
+                    <div class="subscribe my-3">
+                        <input class="p-3 fs-5 " type="email" placeholder="Email">
+                        <button type="button" class="mx-2 p-3 btn btn-warning fs-5 fw-bold">subscribe</button>
+                    </div>
+                </div>
+                <div class="menu">
+                    <div class="menu p-2 fs-3 col-6">
+                      <div class="menu-row1 d-flex gap-4">
+                        <a class="text-decoration-none text-black"  href="#">Home</a>
+                        <a class="text-decoration-none text-black" href="#">About</a>
+                        <a class="text-decoration-none text-black" href="#">Contact</a>
+                        <a class="text-decoration-none text-black" href="#">Contact</a>
+                      </div>
+                      <!-- <div class="menu-row2">
+                        <a class="text-decoration-none" href="#">Terms & Conditions</a>
+                        <a class="text-decoration-none" href="#">Privacy Policy</a>
+                        <a class="text-decoration-none" href="#">Cookie Policy</a>
+                      </div> -->
+                    </div>
+                </div> 
+            </div>
+            <div class="copy-right text-center my-4">
+                  <div class="copyright-wrapper"><div class="footer-bottom-wrapper">
+                    <div class="footer-copyright">© Security. All Rights Reserved 2024.</div>
+                    <div class="footer-rights-wrapper">
+                      <div class="footer-rights">
+                        <a href="#" target="_blank" class="footer-copyright-link">Template</a>
+                         by <a href="#" target="_blank" class="footer-copyright-link">MehwishDev</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="footer-social-icons-wrapper">
+                      <a href="https://www.facebook.com/" target="_blank" class="footer-social-icon p-3 fs-2 "><i class="fa-brands fa-instagram"></i></a>
+                      <a href="https://twitter.com/" target="_blank" class="footer-social-icon"><i class="fa-brands fa-facebook p-3 fs-2"></i></a>
+                      <a href="https://www.linkedin.com/" target="_blank" class="footer-social-icon p-3 fs-2"><i class="fa-brands fa-linkedin"></i></a>
+                    </div>
+                  </div>
+                </div>
+          </footer>
+          <!-- Footer -->
+
+
+
+
+
+
+
+
+
+
+
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+         crossorigin="anonymous"></script>
+        
+
+    </body>
+    </html>
