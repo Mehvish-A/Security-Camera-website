@@ -1,0 +1,404 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
+<link rel="stylesheet" href="style.css">
+    <title>Hello, world!</title>
+  </head>
+<body>
+
+
+<!--NavBAr--------------->
+
+<nav class="navbar navbar-expand-lg navbar-light ">
+    <div class="container ">
+        <a class="navbar-brand text-white" href="#"><img src="logo1.svg" alt=""></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span> 
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    
+
+        <ul class="navbar-nav  ms-auto mb-3 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active text-white px-lg-3" aria-current="page" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link  text-white px-lg-3" href="about.html">About</a>
+         </li>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-white px-lg-3" href="#">Services</a>
+       </li>
+    </li>
+    
+</li>
+<li class="nav-item">
+  <a class="nav-link text-white px-lg-3" href="contact.html">Contact</a>
+</li>
+<button type="button" class="btn btn-light btn-lg">Contact Us</button>
+
+        
+       </ul>
+    
+       
+</ul>
+      </div>
+    </div>
+  </nav>
+
+
+
+  </div>
+  <!---------------Banner1------------->
+
+<div class="banner1">
+<div class="row">
+<div class="col md-6">
+  <h3 class="ms-5 mt-5  text-white" >Video Security Camera</h3>
+<h1 class="ms-5 mt-5  text-white">Ensure Your Home Safety<br> With Our Cameras</h1>
+<P class="ms-5 mt-3  text-white"  >Welcome to our home security camera website! Our mission is 
+  to<br> help you keep your home and loved ones safe and secure at all times.</P>
+  <button type="button" class="btn btn-warning btn-lg ms-5">About Us</button>
+  <button type="button" class="btn btn-light btn-lg">Contact Us</button>
+  
+</div>
+</div>
+</div>
+<!---------Section 1-->
+<div class="section1">
+<div class="container1">
+  <div class="ms-5 d-flex flex-row bd-highlight mb-3">
+    <div class="p-4 bd-highlight" ><img src="pics/logo2.png" alt=""></div>
+    <div class="p-4 bd-highlight"><img src="pics/logo3.png" alt=""></div>
+    <div class="p-4 bd-highlight"><img src="pics/logo4.png" alt=""></div>
+    <div class="p-4 bd-highlight"><img src="pics/logo5.png" alt=""></div>
+    <div class="p-4 bd-highlight"><img src="pics/logo6.png" alt=""></div>
+    <div class="p-4 bd-highlight"><img src="pics/logo7.png" alt=""></div>
+  </div>
+</div>
+<!---service section-->
+<div class="container2">
+  <h1 class="mx-5 mt-5 ms-5 pt-5">Services</h1>
+  <div class="card ms-5" style="width: 18rem;">
+    
+    <div class="card-body">
+      <h5 class="card-title">01</h5>
+      <h6 class="card-subtitle mb-2 text-muted">Security Consultancy Services</h6>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <button type="button" class="btn btn-outline-secondary">Learn More </button>
+    </div>
+  </div>
+  <div class="card ms-5" style="width: 18rem;">
+    <div class="card-body">
+      <h5 class="card-title">02</h5>
+      <h6 class="card-subtitle mb-2 text-muted">Security Consultancy Services</h6>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <button type="button" class="btn btn-outline-secondary">Learn More</button>
+    </div>
+  </div>
+  <div class="card ms-5" style="width: 18rem;">
+    <div class="card-body">
+      <h5 class="card-title">03</h5>
+      <h6 class="card-subtitle mb-2 text-muted">Security Consultancy Services</h6>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <button type="button" class="btn btn-outline-secondary">Learn More</button>
+    </div>
+  </div>
+ 
+
+
+</div>
+
+
+ <!----------------security sections with pics-->
+ <div class=" mt-5 p-5 d-flex align-items-center">
+  
+  <div class="flex-grow-1 ms-5">
+    <h3 class=heading1>Explore The Effective <br>Measures Our Services Offer<br> To Protect You</h3>
+    <p class="text1">With our advanced alarm systems, access control<br> solutions, and video surveillance systems
+       we ensure a<br> robust defense against potential threats.</p>
+       <button type="button" class="btn btn-warning mx-5">More About Us</button>
+  </div>
+  <div class=" ms-5 my-5 flex-shrink-0">
+    <img src="pics/image2.webp" alt="...">
+  </div>
+</div>
+  
+<div class=" mt-5 p-5 d-flex align-items-center">
+  <div class=" ms-5  flex-shrink-0">
+    <img src="pics/image3.webp" alt="...">
+  </div>
+  <div class="flex-grow-1 ms-5">
+    <h3 class=heading1>Explore The Effective <br>Measures Our Services Offer<br> To Protect You</h3>
+    <p class="text1">With our advanced alarm systems, access control<br> solutions, and video surveillance systems
+       we ensure a<br> robust defense against potential threats.</p>
+       <button type="button" class="btn btn-warning mx-5">More About Us</button>
+  </div>
+  
+</div>
+  
+ <!----security section end-->
+ 
+<!------3 colomns section--> 
+ 
+ 
+<div class="row ms-5 mb-5">
+  
+    <div class="col">
+      <h1 class="text-warning">400+</h1>
+      <h3>Satisfied Clients</h3>
+      <P>We take great pride in the<br> relationships we have built.</P>
+    
+    </div>
+    
+    <div class="col">
+      <h1 class="text-warning">400+</h1>
+      <h3>Satisfied Clients</h3>
+      <P>We take great pride in the<br> relationships we have built.</P>
+    </div>
+    <div class="col">
+      <h1 class="text-warning">400+</h1>
+      <h3>Satisfied Clients</h3>
+      <P>We take great pride in the<br> relationships we have built.</P>
+
+      
+    </div>
+  
+</div>
+</div>
+<!----section end-->
+
+<!---image card-->
+
+<div>
+  <h2 class=" text-center heading2 ms-5 mt-3">Discover Our Security Cameras</h2>
+</div>
+<div class="container">
+  <div class="row mt-5 align-items-start">
+<div class="col">
+      <img src="pics/small1.png" alt="">
+      <div>
+        <h2 class="h2">Security Camera AH</h2>
+      </div>
+
+    </div>
+    
+    <div class="col">
+      <img src="pics/small1.png" alt="">
+      <div>
+        <h2 class="h2">Security Camera AH</h2>
+      </div>
+    </div>
+    <div class="col">
+      <img src="pics/small1.png" alt="">
+      <div>
+        <h2 class="h2">Security Camera AH</h2>
+      </div>
+    </div>
+  </div>
+
+
+
+<!------Accordian section-------->
+
+
+
+
+
+    <div class="container2 mt-5 p-5">
+
+    <img src="pics/locklogo.png" alt="">
+  </div>
+  <div class="d-flex justify-content-between"></div>
+    <h1 class="heading2">Feel Confident Knowing That<br>We Protect Your Property</h1>
+    <p class="text2">With our state-of-the-art technologies and expertly <br>trained professionals
+       we go the extra mile  to safeguard your property <br>against potential threats.</p>
+    <img src="pics/image4.webp" alt="">
+  </div></div>
+  
+
+
+ <!----Accordian end-->
+
+
+<div class="banner2">
+
+<div class="row">
+<div class="col md-6">
+<h1 class="mt-5 ms-5 text-white">Discover How Our<br> Modern Cameras Work</h1>
+
+
+
+</div>
+<div class="col md-6">
+<h1 class="mt-5 ms-5 text-white">Discover How Our<br> Modern Cameras Work</h1>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+<!------section end-->
+
+<!------6 col section-->
+
+<div class="banner3">
+  
+
+    <div class="row mt-5 justify-content-center">
+      <div class="col-4">
+      <img src="pics/logo2.png" alt="">
+      </div>
+      <div class="col-4">
+    <img src="pics/logo3.png" alt="">
+      </div>
+    </div>
+    <div class="row mt-5 justify-content-center">
+      <div class="col-4">
+        <img src="pics/logo4.png" alt="">
+      </div>
+      <div class="col-4">
+        <img src="pics/logo5.png" alt="">
+      </div>
+      <div class="row mt-5 justify-content-center">
+        <div class="col-4">
+          <img src="pics/logo6.png" alt="">
+        </div>
+        <div class="col-4">
+          <img src="pics/logo7.png" alt="">
+        </div>
+        
+          
+</div>
+
+
+<div class="row">
+<div class="col md-6">
+<h1 class="mt-5 mx-5 text-dark">What Our Clients <br>Say About Us</h1>
+
+
+
+</div>
+<div class="col md-6">
+<p class=" ms-5 mt-5 text-dark">I highly recommend Security for their exceptional security services.
+   Their team installed a comprehensive video surveillance system in our commercial property,
+    and we have been impressed with the quality of the cameras and the ease of monitoring 
+    through their user-friendly mobile app.</p>
+
+  <h4>John Dain
+  Manager</h4>
+
+</div>
+
+</div>
+</div>
+
+
+<!--col end---------->
+
+<!-----progress bar section-->
+
+<br>
+<br>
+
+
+<div class="section2">
+
+
+  <div class="row justify-content-center">
+    <div class="col-4 mt-5">
+      <img src="pics/wallcamera.webp" alt="">
+    </div>
+   
+</div>
+<!-- Footer -->
+<footer class="mx-5 p-5 my-4">
+  <div class="main-footer gap-4 d-flex">
+      <div class="signup col-6">
+          <h2>Sign Up For Newsletter</h2>
+          <div class="subscribe my-3">
+              <input class="p-3 fs-5 " type="email" placeholder="Email">
+              <button type="button" class="mx-2 p-3 btn btn-warning fs-5 fw-bold">subscribe</button>
+          </div>
+      </div>
+      <div class="menu">
+          <div class="menu p-2 fs-3 col-6">
+            <div class="menu-row1 d-flex gap-4">
+              <a class="text-decoration-none text-black"  href="#">Home</a>
+              <a class="text-decoration-none text-black" href="#">About</a>
+              <a class="text-decoration-none text-black" href="#">Contact</a>
+              <a class="text-decoration-none text-black" href="#">Contact</a>
+            </div>
+            <!-- <div class="menu-row2">
+              <a class="text-decoration-none" href="#">Terms & Conditions</a>
+              <a class="text-decoration-none" href="#">Privacy Policy</a>
+              <a class="text-decoration-none" href="#">Cookie Policy</a>
+            </div> -->
+          </div>
+      </div> 
+  </div>
+  <div class="copy-right text-center my-4">
+        <div class="copyright-wrapper"><div class="footer-bottom-wrapper">
+          <div class="footer-copyright">© Security. All Rights Reserved 2024.</div>
+          <div class="footer-rights-wrapper">
+            <div class="footer-rights">
+              <a href="#" target="_blank" class="footer-copyright-link">Template</a>
+               by <a href="#" target="_blank" class="footer-copyright-link">MehwishDev</a>
+              </div>
+            </div>
+          </div>
+          <div class="footer-social-icons-wrapper">
+            <a href="https://www.facebook.com/" target="_blank" class="footer-social-icon p-3 fs-2 "><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://twitter.com/" target="_blank" class="footer-social-icon"><i class="fa-brands fa-facebook p-3 fs-2"></i></a>
+            <a href="https://www.linkedin.com/" target="_blank" class="footer-social-icon p-3 fs-2"><i class="fa-brands fa-linkedin"></i></a>
+          </div>
+        </div>
+      </div>
+</footer>
+<!-- Footer -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
+integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+ crossorigin="anonymous"></script>
+
+</body>
+
+
+
+
+
+  </html>
