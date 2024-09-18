@@ -35,7 +35,7 @@
          </li>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white px-lg-3" href="#">Services</a>
+          <a class="nav-link text-white px-lg-3" href="services.html">Services</a>
        </li>
     </li>
     
@@ -145,7 +145,7 @@
                       <div class="menu-row1 d-flex gap-4">
                         <a class="text-decoration-none text-black"  href="#">Home</a>
                         <a class="text-decoration-none text-black" href="#">About</a>
-                        <a class="text-decoration-none text-black" href="#">Contact</a>
+                        <a class="text-decoration-none text-black" href="#">Services</a>
                         <a class="text-decoration-none text-black" href="#">Contact</a>
                       </div>
                       <!-- <div class="menu-row2">
@@ -162,7 +162,7 @@
                     <div class="footer-rights-wrapper">
                       <div class="footer-rights">
                         <a href="#" target="_blank" class="footer-copyright-link">Template</a>
-                         by <a href="#" target="_blank" class="footer-copyright-link">MehwishDev</a>
+                         by <a href="#" target="_blank" class="footer-copyright-link">MehvishDev</a>
                         </div>
                       </div>
                     </div>
